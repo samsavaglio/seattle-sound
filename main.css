@@ -28,7 +28,7 @@ body {
 }
 #main-nav a {
   border: none;
-  padding: 8px;
+  padding: 18px;
   transition: .3s;
 }
 nav > ul > li {
