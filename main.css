@@ -55,35 +55,3 @@ h1 {
   font-size: 3em;
   letter-spacing: .08em;
 }
-h2 {
-  color: #FF0000;
-}
-img.incontent-left {
-  float: left;
-  margin: 0px 12px 12px 0px;
-}
-.hover-effect figure img {
-  -webkit-transform: scale(1);
-  transform: scale(1);
-  -webkit-transition: .3s ease-in-out;
-  transition: .3s ease-in-out;
-}
-.hover-effect figure:hover img {
-  -webkit-transform: scale(1.15);
-  transform: scale(1.15);
-}
-a {
-  color: #FF0000;
-  transition: .3s;
-  text-decoration: none;
-  border-bottom-style: dotted;
-  border-bottom-width: thin;
-  border-bottom-color: #FF0000;
-}
-a:hover {
-  color: #FF0000;
-  text-decoration: none;
-}
-.hover-effect figure {
-  margin: 0
-}
