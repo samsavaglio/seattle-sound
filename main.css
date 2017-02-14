@@ -17,7 +17,7 @@ body {
 
 #main-nav {
   position: fixed;
-  width: 200%;
+  width: 100%;
   text-align: center;
   top: 0;
   z-index: 1000;
