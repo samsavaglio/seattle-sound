@@ -41,9 +41,6 @@ nav > ul > li:hover {
   background: rgba(195, 178, 153, 0.2);
   transition: background .5s;
 }
-nav > ul > li:hover a {
-  color: #FF0000;
-}
 .logo {
   width: 100px;
   height: auto;
