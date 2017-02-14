@@ -43,7 +43,7 @@ nav > ul > li:hover {
   transition: background .5s;
 }
 nav > ul > li:hover a {
-  color:red;
+  color: red;
 }
 .logo {
   width: 100px;
