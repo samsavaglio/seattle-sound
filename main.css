@@ -27,7 +27,7 @@ body {
   padding: 0;
 }
 #main-nav a {
-  border: none;
+  border: 5px solid black;
   padding: 18px;
   transition: .3s;
 }
