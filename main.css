@@ -28,7 +28,6 @@ body {
 }
 #main-nav a {
   border: none;
-  text-decoration: underline;
   padding: 8px;
   transition: .3s;
 }
