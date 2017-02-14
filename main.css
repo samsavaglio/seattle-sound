@@ -7,8 +7,8 @@ body {
 }
 #content {
   width: 65%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 150px;
+  margin-right: 150px;
   margin-top: 150px;
   padding-bottom: 150px;
 }
