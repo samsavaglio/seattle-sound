@@ -1,6 +1,7 @@
 /* Container Styles */
 
 body {
+  width: 200%
   font-family: 'Source Sans Pro', showcard-gothic;
   font-size: 1.2em;
   word-spacing: .2em;
