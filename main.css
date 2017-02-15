@@ -38,6 +38,10 @@ h1 {
 h2 {
   color: #FF0000;
 }
+img.incontent-left {
+  float: left;
+  margin: 0px 12px 12px 0px;
+}
 a {
   color: #FF0000;
   transition: .3s;
