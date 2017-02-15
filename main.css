@@ -5,6 +5,11 @@ body {
   font-size: 1.2em;
   word-spacing: .2em;
 }
+section {
+  background: grey;
+  padding: 10px;
+  border-radius: 0px 0px 15px 15px;
+}
 
 /* Navigation Styling */
 
