@@ -17,7 +17,7 @@ body {
 }
 #main-nav a {
   border: 5px solid black;
-  padding: 18px;
+  padding: 8px;
   transition: .3s;
 }
 nav > ul > li {
