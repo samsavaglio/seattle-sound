@@ -38,3 +38,11 @@ h1 {
 h2 {
   color: #FF0000;
 }
+a {
+  color: #FF0000;
+  transition: .3s;
+  text-decoration: none;
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-color: #FF0000;
+}
