@@ -54,6 +54,7 @@ h1 {
   text-align: center;
   font-size: 3em;
   letter-spacing: .08em;
+  text-decoration: overline;
 }
 h2 {
   color: #FF0000;
