@@ -1,6 +1,9 @@
 /* Container Styles */
 
 body {
+   width: 90%;
+  margin: 0px 5% 0px 5%;
+}
   font-size: 1.2em;
   word-spacing: .2em;
 }
