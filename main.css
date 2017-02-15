@@ -30,10 +30,6 @@ nav > ul > li {
   padding: 12px;
   font-size: 1.4em;
 }
-nav > ul > li:hover {
-  background: rgba(195, 178, 153, 0.2);
-  transition: background .5s;
-}
 
 /* Content Styling */
 
