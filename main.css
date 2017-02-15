@@ -15,6 +15,10 @@ body {
   top: 0;
   z-index: 1000;
 }
+#main-nav nav, ul {
+  display: inline-block;
+  padding: 0;
+}
 #main-nav a {
   border: 5px solid black;
   padding: 8px;
@@ -25,10 +29,6 @@ nav > ul > li {
   list-style-type: none;
   padding: 12px;
   font-size: 1.4em;
-}
-.logo img {
-  width: 100%;
-  height: auto;
 }
 
 /* Content Styling */
