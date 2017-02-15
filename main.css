@@ -57,10 +57,3 @@ a {
   border-bottom-width: thin;
   border-bottom-color: #FF0000;
 }
-a:hover {
-  color: #FF0000;
-  text-decoration: none;
-}
-.hover-effect figure {
-  margin: 0
-}
