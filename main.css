@@ -6,11 +6,11 @@ body {
   word-spacing: .2em;
 }
 #content {
-  width: 265%;
+  width: 65%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 150px;
-  padding-bottom: 150px;
+  margin-top: 250px;
+  padding-bottom: 250px;
 }
 
 /* Navigation Styling */
